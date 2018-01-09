@@ -8,6 +8,10 @@ h1 {
 	font-weight: 400;
 }
 
+.fa-plus {
+	float: right;
+}
+
 ul {
 	list-style: none;
 	margin: 0;
